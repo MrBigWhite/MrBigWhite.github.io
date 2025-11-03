@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "Big White"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/myimage.jpg"
+  bio    : "这是大白的主页，一方充满温暖与希望的秘密花园."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
