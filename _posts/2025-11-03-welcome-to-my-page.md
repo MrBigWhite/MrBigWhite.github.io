@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my page!"
+title: "Welcome to My Page!"
 date: 2025-11-03T12:00:00+08:00
 categories:
   - blog
